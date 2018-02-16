@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: darkgray;
+	font-size: 22px;
+}
+
+.main{
+	padding: 55px 50px 30px;
+	background-color: white;
+}
+
+button{
+	background-color: darkred;
+	border: none;
+	width: 100%;
+	padding: 10px 0;
+	color: white;
+	font-size: 18px;
+	border-radius: 6px;
+}
+
+.header{
+	margin-bottom: -5px;
+}
+
+.follwrap{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.gif{
+	max-width: 100%;
+	height: auto;
+}
+
+.t{
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+.center{
+	text-align: center;
+}
+
+
+.Img1r{
+	padding-bottom: 25px;
+	float: left;
+	margin-right: 34px;
+}
+
+.Img1r img{
+	max-width: 316px;
+	max-height: 266px;
+}
+
+.Img1r p{
+	max-width: 316px;
+}
+
+.Img2r{
+	padding-bottom: 25px;
+	float: left;
+}
+
+.Img2r img{
+	max-width: 200px;
+	max-height: 260px;
+}
+
+.Img2r p{
+	max-width: 200px;
+}
+
+
+.clear{
+	clear: both;
+}
+
+.footer{
+	padding-top: 30px;
+	padding-bottom: 25px;
+	color: white;
+	font-size: 16px;
+}
+.footer a{
+	color: white;
+}
+.a1{
+	padding-left: 33px;
+	margin: 0px;
+}
+.a2{
+	padding-left: 50px;
+	margin: 0px;
+}
