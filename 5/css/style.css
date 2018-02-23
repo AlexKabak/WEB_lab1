@@ -24,7 +24,10 @@ button{
 }
 
 .header{
-	margin-bottom: -5px;
+    margin-top: 10px;
+}
+.header img{
+    display: block;
 }
 
 .follwrap{
@@ -48,9 +51,9 @@ button{
 
 
 .Img1r{
-	padding-bottom: 25px;
+	 margin: 25px 0px 0px 20px;
 	float: left;
-	margin-right: 34px;
+	
 }
 
 .Img1r img{
@@ -63,7 +66,7 @@ button{
 }
 
 .Img2r{
-	padding-bottom: 25px;
+    margin: 20px 0px 20px 20px;
 	float: left;
 }
 
@@ -91,10 +94,8 @@ button{
 	color: white;
 }
 .a1{
-	padding-left: 33px;
-	margin: 0px;
+	margin: 20px 20px 20px 20px;
 }
 .a2{
-	padding-left: 50px;
-	margin: 0px;
+	margin: 20px 20px 0px 20px;
 }
