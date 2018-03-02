@@ -63,7 +63,19 @@ button{
 .Img1r p{
 	max-width: 316px;
 }
+.Img12r{
+    margin: 25px 0px 0px 20px;
+	float: right;
+}
 
+.Img12r img{
+	max-width: 316px;
+	max-height: 266px;
+}
+
+.Img12r p{
+	max-width: 316px;
+}
 .clear{
 	clear: both;
 }

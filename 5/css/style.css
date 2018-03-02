@@ -55,8 +55,15 @@ button{
 	float: left;
 	
 }
-
+.Img12r{
+	 margin: 25px 0px 0px 20px;
+	float: right;
+}
 .Img1r img{
+	max-width: 316px;
+	max-height: 266px;
+}
+.Img12r img{
 	max-width: 316px;
 	max-height: 266px;
 }
@@ -64,10 +71,18 @@ button{
 .Img1r p{
 	max-width: 316px;
 }
+.Img12r p{
+	max-width: 316px;
+}
+
 
 .Img2r{
     margin: 20px 0px 20px 20px;
 	float: left;
+}
+.Img21r{
+    margin: 20px 0px 20px 20px;
+	float: right;
 }
 
 .Img2r img{
@@ -75,7 +90,16 @@ button{
 	max-height: 260px;
 }
 
+.Img21r img{
+	max-width: 200px;
+	max-height: 260px;
+}
+
+
 .Img2r p{
+	max-width: 200px;
+}
+.Img21r p{
 	max-width: 200px;
 }
 
